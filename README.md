@@ -9,8 +9,8 @@ For those users I have created a Python Script that scraps headlines from a very
 
 Prerequisites
 --------------
-Python.
-selenium library for python.
+Python.<br>
+selenium library for python.<br>
 chrome webdriver in the chrome directory of your computer.
 
 
