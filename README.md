@@ -21,4 +21,11 @@ What does it do?
 ----------------
 If you liked the clean environment of the hindu headline collector then try this one.It scraps all the info about each of all the headlines by automatically scraping all the headline links on the main site.
 
+# web_scrap
+------------
 
+What does it do?
+-----------------
+
+This is a package that I created which will help anyone to make scraping scripts once they understand how a site works.
+More functions may be added later.
