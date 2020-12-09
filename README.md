@@ -13,4 +13,12 @@ Python.<br>
 selenium library for python.<br>
 chrome webdriver in the chrome directory of your computer.
 
+# The Hindu Newspaper Scrapper
+--------------------------------
+--------------------------------
+
+What does it do?
+----------------
+If you liked the clean environment of the hindu headline collector then try this one.It scraps all the info about each of all the headlines by automatically scraping all the headline links on the main site.
+
 
