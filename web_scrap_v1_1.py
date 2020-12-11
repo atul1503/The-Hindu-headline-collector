@@ -120,7 +120,7 @@ def tag_finder_by_num(s,tag,tag_number):
         
 def visit(site):
     '''
-    visits website in site via chrome webdriver and returns its html source.site is a string.No need to put http or https in site
+    visits website in site via chrome webdriver and returns its html source and browser object which you can use to do other browser related stuff.site is a string.No need to put http or https in site
     '''
     
     b=webdriver.Chrome()
