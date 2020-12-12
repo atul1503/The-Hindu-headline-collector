@@ -59,6 +59,7 @@ def tag_finder_by_string(s,tag,id="I dont' know"):
         
 def hard_cleanify(s):
     '''
+        Removes all the tags and their contents from the s string and returns the string.
         s is a string which represents html source.
         For eg: s=cleanify('atul<br>tripathi')
         now s is 'atultripathi'
