@@ -317,7 +317,7 @@ def bypass_multi_eol(s):
     Removes all adjacent newline characters from the s string and returns the new string.
     '''
     
-    alpha='abcdefghijklmnopqrstuvwABCDEFGHIJKLMNOPQRSTUVWXYZ,";'
+    alpha='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ,";'
     content=''
     i=0
     while i<len(s):
